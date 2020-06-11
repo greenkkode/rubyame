@@ -1,0 +1,2 @@
+# rubyame
+Entrepreneurship blog
